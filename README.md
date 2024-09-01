@@ -15,3 +15,4 @@ Execute o Comando `django-admin startproject core app/`
 ## Passos
 
 - Parei no minuto 21:26
+- Parei em 1:20:18
